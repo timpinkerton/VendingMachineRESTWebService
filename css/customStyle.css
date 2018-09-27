@@ -1,0 +1,84 @@
+.selection-button:nth-child(1):hover {
+    background-image: url(/images/snickers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+.selection-button:nth-child(2):hover {
+    background-image: url(/images/mm.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+.selection-button:nth-child(3):hover {
+    background-image: url(/images/almondJoy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+.selection-button:nth-child(4):hover {
+    background-image: url(/images/milky-way.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+.selection-button:nth-child(5):hover {
+    background-image: url(/images/payday.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+.selection-button:nth-child(6):hover {
+    background-image: url(/images/reeses.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+.selection-button:nth-child(7):hover {
+    background-image: url(/images/pringles.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+.selection-button:nth-child(8):hover {
+    background-image: url(/images/cheezit.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+.selection-button:nth-child(9):hover {
+    background-image: url(/images/dorito.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; 
+    font-size: 0px; 
+}
+
+input {
+    font-family: Orbitron; 
+}
